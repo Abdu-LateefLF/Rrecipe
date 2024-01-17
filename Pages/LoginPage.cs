@@ -18,10 +18,10 @@ namespace Rrecipe
             InitializeComponent();
 
             // Create a connection to the MySql database
-            server = " sql5.freesqldatabase.com";
-            database = "sql5675534";
-            uid = "sql5675534";
-            password = "jh823DxpL7";
+            server = "localhost";
+            database = "rrecipe";
+            uid = "root";
+            password = "";
 
             string connectionString;
             connectionString = $"SERVER={server};DATABASE={database};UID={uid};PASSWORD={password};";
