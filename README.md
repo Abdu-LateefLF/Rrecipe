@@ -31,7 +31,7 @@ I am using a recipe I found online (Link to site below)
 You can navigate to the 'View Recipes' tab to see all the recipes created on your account.
 ![Screenshot 2024-01-17 124217](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/83165f01-8f4b-42bb-a033-355e5c18223a)
 
-You can you the search bar to filter through your recipes based on thier names. I added more recipes so we can see what it looks like :)
+You can you the search bar to filter through your recipes based on their names. I added more recipes so we can see what it looks like :)
 ![Screenshot 2024-01-17 125448](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/2f72649e-82ba-4f78-a816-74f658950bcc)
 ![Screenshot 2024-01-17 125724](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/09327b42-37d8-4a4e-beea-4e4aff6ee9b6)
 
