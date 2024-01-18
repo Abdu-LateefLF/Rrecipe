@@ -35,10 +35,10 @@ You can you the search bar to filter through your recipes based on thier names. 
 ![Screenshot 2024-01-17 125448](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/2f72649e-82ba-4f78-a816-74f658950bcc)
 
 You can press the 'View' button on each recipe to see the entirety of its contents.
-![Screenshot 2024-01-17 125724](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/26ea906d-bf89-4d54-8c51-9cbdd0872713)
+![Screenshot 2024-01-17 125917](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/f52dd659-b4d2-45cf-885d-ddb178a84edb)
 
 And you can press 'Delete' to remove a recipe.
-![Screenshot 2024-01-17 125917](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/f52dd659-b4d2-45cf-885d-ddb178a84edb)
+![Screenshot 2024-01-17 125724](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/26ea906d-bf89-4d54-8c51-9cbdd0872713)
 ![Screenshot 2024-01-17 182629](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/3ce51592-ae79-4dd9-995d-3aa6569e4c59)
 
 Links
