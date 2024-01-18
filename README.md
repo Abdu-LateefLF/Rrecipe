@@ -18,7 +18,7 @@ I have included checks to prevent issues due to:
 * Trying to login with an incorrect username or password.
 ![Screenshot 2024-01-17 120404](https://github.com/Abdu-LateefLF/Rrecipe/assets/101940953/26288f5f-2b5d-428f-a96a-bb30164e795e)
 
-Once you have logged in, you are brought to the 'Create Recipe' page. Here you can enter the name, preparation time, description, and instructions and add and remove ingredients. Once you are finished creating your recipe you can save it to your account or clear the recipe to restart. I have included checks to ensure:
+Once you have logged in, you are brought to the 'Create Recipe' page. Here you can enter the name, preparation time, description, and instructions and add or remove ingredients. Once you are finished creating your recipe you can save it to your account or clear the recipe to restart. I have included checks to ensure:
 
 Recipe name and prepation time are not empty.
 * Preparation time is an integer.
